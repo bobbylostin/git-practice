@@ -1,0 +1,10 @@
+git init  ->     initilize the repo
+git status ->    tells you about changes (i.e the status) since the last commit
+
+# staging the commit
+git add [filename] 
+git add .
+
+#make the commit
+git commit -m "a description of the changes"
+
